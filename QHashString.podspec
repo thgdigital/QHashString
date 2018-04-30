@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'QHashString'
-  s.version      = '1.0.2'
+  s.version      = '1.0.2b'
   s.ios.deployment_target = '7.0'
   s.license      = 'MIT'
   s.homepage     = 'https://github.com/QianChia/QHashString'
