@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/QianChia/QHashString'
   s.authors      = {'QianChia' => 'qianchia@icloud.com'}
   s.summary      = 'The extension method for NSString Hash'
-  s.source       = {:git => 'https://github.com/QianChia/QHashString.git', :tag => s.version}
+  s.source       = {:git => 'https://github.com/thgdigital/QHashString.git', :tag => s.version}
   s.source_files = 'QHashString'
   s.requires_arc = true
   s.tvos.deployment_target = '9.0'
