@@ -9,4 +9,5 @@ Pod::Spec.new do |s|
   s.source       = {:git => 'https://github.com/QianChia/QHashString.git', :tag => s.version}
   s.source_files = 'QHashString'
   s.requires_arc = true
+  s.tvos.deployment_target = '9.0'
 end
